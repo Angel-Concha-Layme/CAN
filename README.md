@@ -33,7 +33,7 @@ python3 -m venv virtualCAN
 ```
 Clonar este repositorio con git
 ```
-git clone https://github.com/Leslym03/Reproducion-CAN
+git clone https://github.com/Angel1612/CAN
 ```
 Ingresar a la carpeta de `ReproducionCAN/src`
 Instalar requerimientos a travez del siguiente comando:
